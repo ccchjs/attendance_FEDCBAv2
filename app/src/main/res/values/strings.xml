@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FEDCBA Attendance V2</string>
+    <string name="channel_name">Attendance Alarms</string>
+    <string name="channel_description">FEDCBA Attendance V2 daily reminders</string>
+</resources>

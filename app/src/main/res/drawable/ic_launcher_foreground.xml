@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Blue background -->
+    <path
+        android:fillColor="#5f8fb5"
+        android:pathData="M0,0h108v108h-108z"/>
+
+    <!-- Letter F -->
+    <text
+        android:fontFamily="sans-serif-black"
+        android:textSize="60sp"
+        android:fillColor="#ffffff"
+        android:textAlignment="center"/>
+
+    <!-- Rounded rect background -->
+    <path
+        android:fillColor="#5f8fb5"
+        android:pathData="M10,10 L98,10 Q98,10 98,10 L98,98 Q98,98 98,98 L10,98 Q10,98 10,98 L10,10 Z"/>
+
+    <!-- F letter shape -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M25,20 L80,20 L80,35 L40,35 L40,48 L72,48 L72,62 L40,62 L40,88 L25,88 Z"/>
+
+</vector>
